@@ -1,5 +1,5 @@
 <h1>Hola!, I'm Bima Galaxy Putra</h1>
-<h3>just an ordinary person, living an ordinary life.</h3>
+<h3>just an ordinary person, living an extraordinary life.</h3>
 
 - 🔭 I’m currently working on [biztify](https://github.com/BimaGalaxy/biztify)
 
