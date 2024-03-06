@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [biztify](https://github.com/BimaGalaxy/biztify)
 
-- 🌱 I’m currently learning **node.js, react.js, laravel**
+- 🌱 I’m currently learning **node.js, react.js**
 
 - 📫 How to reach me **bimagalaxy.p@gmail.com**
 
