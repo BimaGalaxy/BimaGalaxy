@@ -1,10 +1,6 @@
 <h1>Hola!, I'm Bima Galaxy Putra</h1>
 <h3>just an ordinary person, living an extraordinary life.</h3>
 
-- 🔭 I’m currently working on [biztify](https://github.com/BimaGalaxy/biztify)
-
-- 🌱 I’m currently learning **node.js, react.js**
-
 - 📫 How to reach me **bimagalaxy.p@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
