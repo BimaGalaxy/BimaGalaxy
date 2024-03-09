@@ -1,5 +1,4 @@
 <h1>Hola!, I'm Bima Galaxy</h1>
-<h3>just an ordinary person, living an extraordinary life.</h3>
 
 - 📫 How to reach me **bimagalaxy.p@gmail.com**
 
