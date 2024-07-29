@@ -1,4 +1,4 @@
-<h1>Hola!, I'm Bima Galaxy</h1>
+<h1>Hola!, My Name Bima Galaxy</h1>
 
 - 🌱 I’m currently learning **NestJS**
 
