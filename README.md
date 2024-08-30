@@ -1,6 +1,6 @@
 <h1>Bima Galaxy</h1>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 currently learning **NestJS**
 
 - 📫 How to reach me **bimagalaxy.p@gmail.com**
 
